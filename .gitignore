@@ -1,0 +1,19 @@
+# virtual envs
+venv/
+.venv/
+env/
+ENV/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE / OS
+.vscode/
+Thumbs.db
+.DS_Store
+
+# secrets
+.env
